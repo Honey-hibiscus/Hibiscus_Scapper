@@ -2,7 +2,7 @@ Installation and Setup
 Follow these steps to set up the project locally:
 
 Step 1: Clone the repository
-git clone https://github.com/your_username/Hibiscus_Scraper.git
+git clone https://github.com/Honey-hibiscus/Hibiscus_Scraper.git
 cd Hibiscus_Scraper
 
 Step 2: Create a virtual environment
